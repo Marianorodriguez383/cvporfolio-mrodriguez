@@ -27,7 +27,7 @@ h2 {
     /* padding-bottom: 154%; */
     /* padding-right: 10%;   */
     background-color: #020c1b;
-    color: #495670;   
+    color: #ffffff;  /* #495670*/
 }
 
 
@@ -110,6 +110,25 @@ h2 {
     margin-top: 15%;
     
 }
+
+.titulosection{
+    color: #ffffff;
+    font-size: 2.5em;
+}
+
+.parrafos {
+    font-size: 1.7em;
+    margin-right: 5%;
+    color: #495670;
+    margin-top: 10%;
+}
+
+.fotoacercade{
+    max-width: 90%;
+    margin-top: 35%;
+    
+}
+
 
 @media screen and (max-width: 576px){
     .logo{
