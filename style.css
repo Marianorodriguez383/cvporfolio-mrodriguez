@@ -101,13 +101,13 @@ h2 {
     bottom: 0px;
 }
 
-.icono-redsocial{
+.icono-redsocial {
     margin-bottom: 60%;
 }
 
 
-.section-acercade{
-    margin-top: 15%;
+.section-acercade, .experiencia, .proyectos, .seccioncontacto { 
+    margin-top: 18%;
     
 }
 
@@ -116,7 +116,7 @@ h2 {
     font-size: 2.5em;
 }
 
-.parrafos {
+.parrafos{
     font-size: 1.7em;
     margin-right: 5%;
     color: #495670;
@@ -127,6 +127,42 @@ h2 {
     max-width: 90%;
     margin-top: 35%;
     
+}
+
+.experiencia, .titulosection {
+    margin-bottom: 10%;
+}
+
+.lista1{
+    margin-top: 22%;
+    font-size: 1.7em;
+    
+
+}
+
+.carousel1{
+    margin-bottom: 10%;
+    
+}
+
+.parrafo-contac{
+    font-size: 1.7em;
+    color: #495670;
+}
+
+.btn2 {
+    background-color: #64ffda;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.text-contacto{
+    display: none;
+}
+
+.show {
+    display: block;
 }
 
 
@@ -143,7 +179,7 @@ h2 {
     .font-h2{
         font-size: 1em;
     }
-    .parrafodescripcion {
+    .parrafodescripcion, .parrafos {
         font-size: 1em;
         
     }
