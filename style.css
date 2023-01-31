@@ -207,5 +207,8 @@ h2 {
        box-sizing: content-box;
        max-width: 100%; 
     }
+    .text-contacto{
+        font-size: 0.7em;
+    }
 }
 
