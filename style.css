@@ -185,13 +185,17 @@ h2 {
     }
 
     .social-media{
-        flex-direction:row;
-        padding-right: 10%;
-        position: inherit;
-        max-width: 30%;
+       display: flex;
+       -webkit-box-align: center;
+       padding: 0;
+       list-style: none;
+       vertical-align: baseline;
+       align-items: flex-start;
+       flex-direction: row;
+       position: inherit;
     }
     .icono-redsocial{
-        margin-left: 40%;
+        padding: 5%;
     }
 }
 
