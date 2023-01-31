@@ -197,5 +197,15 @@ h2 {
     .icono-redsocial{
         padding: 5%;
     }
+    .lista1{
+        font-size: 0.8em;
+    }
+    .parrafos{
+        font-size: 0.9em;
+    }
+    .fotoacercade{
+       box-sizing: content-box;
+       max-width: 100%; 
+    }
 }
 
