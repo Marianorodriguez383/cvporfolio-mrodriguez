@@ -1,3 +1,4 @@
+
 function cambiarFondo() {
     let nombre = document.getElementById('nombre');
 
