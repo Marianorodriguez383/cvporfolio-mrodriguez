@@ -78,7 +78,7 @@ h2 {
 .boton {
     margin-top: 24%;
     margin-left: 25%;
-    background-color: #64ffda;
+    /* background-color: #64ffda; */
     border-radius: 10px;
 }
 
@@ -150,6 +150,27 @@ h2 {
     color: #495670;
 }
 
+#titulocoloralaetorio{
+    background-color: #014737;
+    color: #080808;
+}
+
+#reset {
+    margin-top: 6%;
+    background-color: #64ffda;
+}
+
+#generate {
+    background-color: #64ffda;
+    margin-top: 6%;
+}
+
+.color-hex {
+    font-size: 1.3em;
+    color: #ffffff;
+    background-color: #014737;
+}
+
 .btn2 {
     background-color: #64ffda;
     border-radius: 10px;
@@ -189,7 +210,7 @@ h2 {
     .font-h2{
         font-size: 1em;
     }
-    .parrafodescripcion, .parrafos {
+    .parrafodescripcion, .parrafos, #titulocoloralaetorio, #reset, #generate,.color-hex {
         font-size: 1em;
         
     }
